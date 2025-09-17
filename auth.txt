@@ -1,1 +1,2 @@
 Auth file
+added authorisation check
